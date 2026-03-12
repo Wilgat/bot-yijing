@@ -23,7 +23,7 @@ Use the following as the right hexagram lookup, you should use bottom to top
 | 17   | 隨 (Suí) | ䷐  | 兌/震 (Lake/Thunder)  | 陽陰陰陽陽陰  |
 | 18   | 蠱 (Gǔ)  | ䷑  | 艮/巽 (Mountain/Wind) | 陰陽陽陰陰陽  |
 | 19   | 臨 (Lín) | ䷒  | 坤/兌 (Earth/Lake)    | 陽陽陰陰陰陰  |
-| 20   | 觀 (Guān)        | ䷓  | 巽/坤 (Wind/Earth)    | 陰陰陰陰陽  |
+| 20   | 觀 (Guān)        | ䷓  | 巽/坤 (Wind/Earth)    | 陰陰陰陰陽陽  |
 | 21   | 噬嗑 (Shì Kè)   | ䷔  | 離/震 (Fire/Thunder)  | 陽陰陰陽陰陽  |
 | 22   | 賁 (Bì)  | ䷕  | 艮/離 (Mountain/Fire) | 陽陰陽陰陰陽  |
 | 23   | 剝 (Bō)  | ䷖  | 艮/坤 (Mountain/Earth)| 陰陰陰陰陰陽  |
@@ -47,7 +47,7 @@ Use the following as the right hexagram lookup, you should use bottom to top
 | 41   | 損 (Sǔn) | ䷨  | 艮/兌 (Mountain/Lake) | 陽陽陰陰陰陽  |
 | 42   | 益 (Yì)  | ䷩  | 風/雷 (Wind/Thunder)  | 陽陰陰陰陽陽  |
 | 43   | 夬 (Guài)        | ䷪  | 兌/乾 (Lake/Heaven)   | 陽陽陽陽陽陰  |
-| 44   | 姤 (Gòu) | ䷫  | 乾/巽 (Heaven/Wind)   | 陰陽陽陽陽陽陰  |
+| 44   | 姤 (Gòu) | ䷫  | 乾/巽 (Heaven/Wind)   | 陰陽陽陽陽陽  |
 | 45   | 萃 (Cuì) | ䷬  | 兌/坤 (Lake/Earth)    | 陰陰陰陽陽陰 |
 | 46   | 升 (Shēng)       | ䷭  | 坤/巽 (Earth/Wind)    | 陰陽陽陰陰陰  |
 | 47   | 困 (Kùn) | ䷮  | 兌/坎 (Lake/Water)    | 陰陽陰陽陽陰  |
